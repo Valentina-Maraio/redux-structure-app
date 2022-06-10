@@ -1,1 +1,0 @@
-# redux-structure-app
